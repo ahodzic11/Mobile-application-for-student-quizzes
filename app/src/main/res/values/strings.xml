@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">rma21projekat</string>
+    <string name="upisi_me">Upiši me</string>
+    <string name="ime_predmeta">Predmet</string>
+    <string name="kviz">Kviz</string>
+    <string name="datum">Datum</string>
+    <string name="vrijeme">Vrijeme</string>
+    <string name="bodovi">Bodovi</string>
+
+    <string-array name="Izbor">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>

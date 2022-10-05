@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/kvizovi"
+        android:icon="@drawable/quizicon"
+        android:title="Kvizovi" />
+    <item
+        android:id="@+id/predmeti"
+        android:icon="@drawable/upisicon"
+        android:title="Upis predmeta" />
+
+    <item
+        android:id="@+id/predajKviz"
+        android:icon="@drawable/predajicon"
+        android:title="Predaj kviz" />
+    <item
+        android:id="@+id/zaustaviKviz"
+        android:icon="@drawable/zaustaviicon"
+        android:title="Zaustavi kviz" />
+</menu>
